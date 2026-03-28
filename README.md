@@ -3,7 +3,7 @@
 ## 👩‍💻 Projects
 | 프로젝트명 | 주제 | 담당 | 기간 |
 | --- | --- | --- | --- |
-| [UPssue](https://github.com/catch-thema/UPssue) | 뉴스에 따른 주가 변동 예측 및 데일리 리포트 생성 서비스 | BE | 25.09.21-25.11.20 (2개월) |
+| [UPssue](https://github.com/catch-thema/catchtheme-BE-securities) | 뉴스에 따른 주가 변동 예측 및 데일리 리포트 생성 서비스 | BE | 25.09.21-25.11.20 (2개월) |
 | [스펙랭킹](https://github.com/kyoungjini/19-Respec-BE) | 취업준비생을 위한 스펙 랭킹화 서비스 | BE | 25.09.21-25.11.20 (4개월) |
 | [맛추픽추](https://github.com/kyoungjini/2-kylie-cho-community-be) | 지인들 간 맛집 공유 커뮤니티 | FE, BE | 25.02.25-25.03.28 (1개월) |
 | [Dev Assistant](https://github.com/ktbhackathonAI/Dev_Assistant_backend) | GitHub 레포지토리 생성 및 skeleton 파일 푸시 자동화 시스템 | BE | 25.02.26-25.02.28 (3일) |
